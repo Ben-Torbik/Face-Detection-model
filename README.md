@@ -27,6 +27,9 @@ This project used one model trained using Teachable Machine:
 * Can adjust the confidence number to ensure the model is more confident before sending the command to Arduino
 * Ensure the project behaves properly while being executed
 
+5) ## Video
+   https://youtu.be/1agJl2gYmT8 
+
 # Versions Used:
 * Arduino IDE: latest
 * Hardware: Arduino Mega 2560
